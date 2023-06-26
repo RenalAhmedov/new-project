@@ -1,1 +1,1 @@
-
+typescript basics practice
